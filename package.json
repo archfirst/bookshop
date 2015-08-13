@@ -1,0 +1,19 @@
+{
+  "name": "bookshop",
+  "description": "A sample project to demonstrate capabilities of various JavaScript ORMs",
+  "version": "0.1.0",
+  "author": "Naresh Bhatia",
+  "license": "MIT",
+  "homepage": "https://github.com/archfirst/bookshop",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/archfirst/bookshop.git"
+  },
+  "dependencies": {
+    "bookshelf": "^0.7.9",
+    "join-js": "^0.4.0",
+    "knex": "^0.8.6",
+    "lodash": "^3.9.3",
+    "pg": "^4.4.0"
+  }
+}
